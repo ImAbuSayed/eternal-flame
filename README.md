@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/eternal-flame/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Eternal Flame](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eternal-flame/) |
+| **Get License** | [Get a Licensing Quote for Eternal Flame](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eternal-flame/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers burning in the dark
+> A quiet fire starting from a spark
+> Your fingertips are pulling me so near
+> There is no place I want to be but here
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
