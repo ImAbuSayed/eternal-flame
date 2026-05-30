@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/eternal-flame/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Eternal Flame](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eternal-flame/) |
+| **Get License** | [Obtain a Music License for Eternal Flame](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eternal-flame/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f268d9320632e0110e95c8c45c00dff4993380de1d82b1b22bafd963da06ba0c` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
